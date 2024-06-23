@@ -15,3 +15,4 @@ function log () {
     console.log('1')
 }
 log()
+console.log('salam')
